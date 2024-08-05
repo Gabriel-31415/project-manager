@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+API desse projeto [API](https://github.com/Gabriel-31415/api.git)  </br></br>
 First, run the development server:
 
 ```bash
